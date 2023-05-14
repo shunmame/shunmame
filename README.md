@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+今は閲覧出来ません
 ポートフォリオはこちら -> https://shunmame.github.io/Portfolio/
 
 <!--
