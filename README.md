@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-ポートフォリオはこちら -> https://shunmame.github.io/Portfolio/
-
 <!--
 **shunmame/shunmame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
